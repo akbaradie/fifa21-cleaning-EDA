@@ -10,9 +10,14 @@ The main goals of this project is cleaning the dataset such as data transformati
 
 ## Analysis Result:
 1. Country with the most players & Top 100 Players
+   ![image](https://github.com/akbaradie/fifa21-cleaning-EDA/blob/main/images/country-distribution.png)
    
-2. Players Distribution by Best Positions
-
-3. Players with Highest Value, Wage, and Release Clause
-
-4. Overall Distribution
+3. Players Distribution by Best Positions
+   ![image](https://github.com/akbaradie/fifa21-cleaning-EDA/blob/main/images/player-distribution.png)
+   
+4. Players with Highest Value, Wage, and Release Clause
+   ![image](https://github.com/akbaradie/fifa21-cleaning-EDA/blob/main/images/player-value.png)
+   
+5. Overall Distribution
+   ![image](https://github.com/akbaradie/fifa21-cleaning-EDA/blob/main/images/ovr-distribution.png)
+   
