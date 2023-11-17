@@ -24,4 +24,6 @@ The main goals of this project is cleaning the dataset such as data transformati
 4. Overall (feature) Distribution
    
    ![image](https://github.com/akbaradie/fifa21-cleaning-EDA/blob/main/images/ovr-distribution.png)
+
+## Correlation Result:
    
