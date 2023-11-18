@@ -6,7 +6,7 @@ FIFA 21 is an association football simulation video game published by Electronic
 I used a public dataset from Kaggle that can be found [here](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring). The raw dataset is very messy and scraped from sofifa.com.
 
 ## Goals
-The main goals of this project is cleaning the dataset such as data transformation and imputation. Then, I did some data analysis to see some correlation and features distribution.
+The main goals of this project is cleaning the dataset such as data transformation and imputation. Then, I did some data analysis to see some correlation and features distribution. The notebook can also be accessed in [Google Colab](https://colab.research.google.com/drive/1utsd9kOh99bu46AqZxv8ODWynrWQqq5N?usp=sharing).
 
 ## Analysis Result:
 1. Country with the most players & Top 100 Players
