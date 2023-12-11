@@ -36,6 +36,6 @@ There is a lot of dirty data that needs to be cleaned. Cleaning includes removin
 
    ![image](https://github.com/akbaradie/fifa21-cleaning-EDA/blob/main/images/corr.png)
 
-2. Feature Correlated to
+2. Wage and OVA (Overall) Correlation to other features
 
 ![image](https://github.com/akbaradie/fifa21-cleaning-EDA/blob/main/images/OVA_Wage_corr.png)
