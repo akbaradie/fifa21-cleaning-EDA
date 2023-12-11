@@ -8,6 +8,12 @@ I used a public dataset from Kaggle that can be found [here](https://www.kaggle.
 ## Goals
 The main goals of this project is cleaning the dataset such as data transformation and imputation. Then, I did some data analysis to see some correlation and features distribution. The notebook can also be accessed in [Google Colab](https://colab.research.google.com/drive/1utsd9kOh99bu46AqZxv8ODWynrWQqq5N?usp=sharing).
 
+## Data Cleansing Comparsion Preview
+
+![image](https://github.com/akbaradie/fifa21-cleaning-EDA/blob/main/images/Before_After_Cleansing.jpg)
+
+There is a lot of dirty data that needs to be cleaned. Cleaning includes removing unnecessary symbols and breaking the data into multiple columns.
+
 ## Analysis Result:
 1. Country with the most players & Top 100 Players
    
